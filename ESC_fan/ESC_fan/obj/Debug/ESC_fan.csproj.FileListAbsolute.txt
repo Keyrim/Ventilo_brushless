@@ -1,0 +1,10 @@
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\bin\Debug\ESC_fan.exe.config
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\bin\Debug\ESC_fan.exe
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\bin\Debug\ESC_fan.pdb
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.csprojAssemblyReference.cache
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.Esc_fan.resources
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.Properties.Resources.resources
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.csproj.GenerateResource.cache
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.exe
+C:\Users\Theo\Documents\Git Hub\Ventilo_brushless\ESC_fan\ESC_fan\obj\Debug\ESC_fan.pdb
